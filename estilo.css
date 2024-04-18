@@ -1,0 +1,20 @@
+h1 {
+    font-weight: bold;
+    color: rgb(69, 81, 173);
+    text-decoration: double;
+}
+
+div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: azure;
+}
+
+body {
+    width: 100%;
+    object-fit: scale-down;
+}
+
+a {
+    color: brown;
+}
